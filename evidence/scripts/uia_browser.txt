@@ -1,0 +1,31 @@
+﻿ControlType.Pane | name= | id=3084744 | class=WindowsForms10.Window.8.app.0.141b42a_r6_ad1 | patterns=
+ControlType.Pane | name= | id= | class=Shell Embedding | patterns=
+ControlType.Pane | name= | id= | class=Shell DocObject View | patterns=
+ControlType.Pane | name= | id= | class=Internet Explorer_Server | patterns=
+ControlType.Pane | name= | id=1774284 | class=WindowsForms10.Window.8.app.0.141b42a_r6_ad1 | patterns=
+ControlType.Text | name=地址： | id=2233110 | class=WindowsForms10.STATIC.app.0.141b42a_r6_ad1 | patterns=
+ControlType.ComboBox | name=地址： | id=5443966 | class=WindowsForms10.COMBOBOX.app.0.141b42a_r6_ad1 | patterns=ValuePatternIdentifiers.Pattern,ExpandCollapsePatternIdentifiers.Pattern
+ControlType.Pane | name=https://jwc.ahpu.edu.cn/ | id=1001 | class=Edit | patterns=
+ControlType.Button | name=Open | id= | class= | patterns=InvokePatternIdentifiers.Pattern
+ControlType.Pane | name=转到 | id=790876 | class=WindowsForms10.BUTTON.app.0.141b42a_r6_ad1 | patterns=
+ControlType.Text | name=缩放： | id=3215740 | class=WindowsForms10.STATIC.app.0.141b42a_r6_ad1 | patterns=
+ControlType.ComboBox | name=缩放： | id=4657540 | class=WindowsForms10.COMBOBOX.app.0.141b42a_r6_ad1 | patterns=ValuePatternIdentifiers.Pattern,ExpandCollapsePatternIdentifiers.Pattern
+ControlType.Text | name=缩放： | id= | class= | patterns=
+ControlType.Button | name=Open | id= | class= | patterns=InvokePatternIdentifiers.Pattern
+ControlType.StatusBar | name= | id=2823458 | class=WindowsForms10.Window.8.app.0.141b42a_r6_ad1 | patterns=
+ControlType.Text | name=标题：教务处 | id= | class= | patterns=
+ControlType.Text | name=https://jwc.ahpu.edu.cn/ | id= | class= | patterns=
+ControlType.Text | name=加载中 0% | id= | class= | patterns=
+ControlType.ProgressBar | name= | id=4197664 | class=WindowsForms10.msctls_progress32.app.0.141b42a_r6_ad1 | patterns=ValuePatternIdentifiers.Pattern,RangeValuePatternIdentifiers.Pattern
+ControlType.ToolBar | name= | id=9636330 | class=WindowsForms10.Window.8.app.0.141b42a_r6_ad1 | patterns=
+ControlType.Button | name=主页 | id= | class= | patterns=InvokePatternIdentifiers.Pattern
+ControlType.Button | name=后退 | id= | class= | patterns=InvokePatternIdentifiers.Pattern
+ControlType.Button | name=前进 | id= | class= | patterns=InvokePatternIdentifiers.Pattern
+ControlType.Button | name=停止 | id= | class= | patterns=InvokePatternIdentifiers.Pattern
+ControlType.Button | name=刷新 | id= | class= | patterns=InvokePatternIdentifiers.Pattern
+ControlType.Button | name=定时访问 | id= | class= | patterns=InvokePatternIdentifiers.Pattern
+ControlType.MenuBar | name= | id=1249672 | class=WindowsForms10.Window.8.app.0.141b42a_r6_ad1 | patterns=
+ControlType.MenuItem | name=文件(F) | id= | class= | patterns=InvokePatternIdentifiers.Pattern,ExpandCollapsePatternIdentifiers.Pattern
+ControlType.MenuItem | name=导航(N) | id= | class= | patterns=InvokePatternIdentifiers.Pattern,ExpandCollapsePatternIdentifiers.Pattern
+ControlType.MenuItem | name=工具(T) | id= | class= | patterns=InvokePatternIdentifiers.Pattern,ExpandCollapsePatternIdentifiers.Pattern
+ControlType.MenuItem | name=帮助(H) | id= | class= | patterns=InvokePatternIdentifiers.Pattern,ExpandCollapsePatternIdentifiers.Pattern

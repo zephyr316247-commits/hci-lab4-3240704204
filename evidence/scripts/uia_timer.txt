@@ -1,0 +1,22 @@
+﻿ControlType.Pane | name=目标网址： | id=2297536 | class=WindowsForms10.STATIC.app.0.141b42a_r6_ad1 | patterns= | enabled=True | rect=854,560,102,26
+ControlType.Pane | name=https://jwc.ahpu.edu.cn | id=6229752 | class=WindowsForms10.EDIT.app.0.141b42a_r6_ad1 | patterns= | enabled=True | rect=968,554,720,35
+ControlType.Pane | name=目标时刻（时 / 分 / 秒，允许进位） | id=10424068 | class=WindowsForms10.Window.8.app.0.141b42a_r6_ad1 | patterns= | enabled=True | rect=854,611,834,144
+ControlType.Pane | name=时 | id=659504 | class=WindowsForms10.STATIC.app.0.141b42a_r6_ad1 | patterns= | enabled=True | rect=884,662,30,26
+ControlType.Pane | name= | id=2560102 | class=WindowsForms10.Window.8.app.0.141b42a_r6_ad1 | patterns= | enabled=True | rect=920,656,90,35
+ControlType.Pane | name= | id=1446218 | class=WindowsForms10.Window.8.app.0.141b42a_r6_ad1 | patterns= | enabled=True | rect=984,657,24,32
+ControlType.Pane | name=11 | id=921940 | class=WindowsForms10.EDIT.app.0.141b42a_r6_ad1 | patterns= | enabled=True | rect=923,659,60,29
+ControlType.Pane | name=分 | id=921948 | class=WindowsForms10.STATIC.app.0.141b42a_r6_ad1 | patterns= | enabled=True | rect=1049,662,30,26
+ControlType.Pane | name= | id=3805570 | class=WindowsForms10.Window.8.app.0.141b42a_r6_ad1 | patterns= | enabled=True | rect=1085,656,90,35
+ControlType.Pane | name= | id=1708422 | class=WindowsForms10.Window.8.app.0.141b42a_r6_ad1 | patterns= | enabled=True | rect=1149,657,24,32
+ControlType.Pane | name=4 | id=1380744 | class=WindowsForms10.EDIT.app.0.141b42a_r6_ad1 | patterns= | enabled=True | rect=1088,659,60,29
+ControlType.Pane | name=秒 | id=4198852 | class=WindowsForms10.STATIC.app.0.141b42a_r6_ad1 | patterns= | enabled=True | rect=1214,662,30,26
+ControlType.Pane | name= | id=3215816 | class=WindowsForms10.Window.8.app.0.141b42a_r6_ad1 | patterns= | enabled=True | rect=1250,656,90,35
+ControlType.Pane | name= | id=2821556 | class=WindowsForms10.Window.8.app.0.141b42a_r6_ad1 | patterns= | enabled=True | rect=1314,657,24,32
+ControlType.Pane | name=40 | id=16189642 | class=WindowsForms10.EDIT.app.0.141b42a_r6_ad1 | patterns= | enabled=True | rect=1253,659,60,29
+ControlType.Pane | name=目标时刻：11:04:40 | id=1970672 | class=WindowsForms10.STATIC.app.0.141b42a_r6_ad1 | patterns= | enabled=True | rect=884,713,174,26
+ControlType.Pane | name=当前时间：11:04:10 | id=1053190 | class=WindowsForms10.STATIC.app.0.141b42a_r6_ad1 | patterns= | enabled=True | rect=854,782,174,26
+ControlType.Pane | name=剩余：-- 秒 | id=1118774 | class=WindowsForms10.STATIC.app.0.141b42a_r6_ad1 | patterns= | enabled=True | rect=854,824,105,26
+ControlType.Pane | name=启动(S) | id=1970892 | class=WindowsForms10.BUTTON.app.0.141b42a_r6_ad1 | patterns= | enabled=True | rect=854,875,180,51
+ControlType.Pane | name=取消(C) | id=3281768 | class=WindowsForms10.BUTTON.app.0.141b42a_r6_ad1 | patterns= | enabled=False | rect=1058,875,180,51
+ControlType.Pane | name=退出(X) | id=1381252 | class=WindowsForms10.BUTTON.app.0.141b42a_r6_ad1 | patterns= | enabled=True | rect=1262,875,180,51
+ControlType.Pane | name=到点后将自动打开系统默认浏览器访问上方网址；启动后时刻输入会被锁定，取消后才能修改。 | id=2954530 | class=WindowsForms10.STATIC.app.0.141b42a_r6_ad1 | patterns= | enabled=True | rect=854,950,834,66
